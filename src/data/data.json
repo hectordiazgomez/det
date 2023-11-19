@@ -1,0 +1,108 @@
+{
+    "DuolingoEnglishTestSample": {
+        "sections": {
+            "ListenAndType": [
+                {
+                    "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0088.mp3",
+                    "transcription": "What literary device uses a comparison between two unrelated things to highlight a particular quality?"
+                },
+                {
+                "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0090.mp3",
+               "transcription": "What famous French landmark was completed in 1889 as an entrance arch for the World's Fair?"
+                },
+                {
+                "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0092.mp3",
+                "transcription": "What natural phenomenon occurs when the Moon passes between the Earth and the Sun, casting a shadow on Earth?"
+                },
+                {
+                "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ",
+                "transcription": "The government introduced new property laws recently."
+                }
+            ],
+            "ReadAloud": [
+                {
+                    "textToRead": "The quick brown fox jumps over the lazy dog, showcasing a display of agility and the beauty of nature's creatures."
+                },
+                {
+                    "textToRead": "In a tranquil forest, a swift brown fox leaps elegantly over a slumbering dog, creating a peaceful yet dynamic scene."
+                }
+            ],
+            "WriteAboutThePhoto": [
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=1uhrY7DE9orJB5zzZLp2UTgWedTP4ZdOx",
+                    "description": "A man who wears a hat and a woman who wears a red t-shirt are searching on how to use the telescope in front of them. A number of groups of individuals are standing or seated in the camping chairs behind them."
+                },
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=1KXO_QUJgb4GArCMcmGPQNv-V_uyrV7Z2",
+                    "description": "A cleaning woman is wiping the glass of a restaurant. There are two signs attached to the glass."
+                },
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=14icNzOZ88OmbsmtRxJO3RyVkA6ivOPOx",
+                    "description": "A waiter in a black shirt and a tie is ordering for a man in a restaurant which has a great atmosphere. On the table, there are several wine glasses."
+                }                                           
+            ],
+            "SpeakAboutThePhoto": [
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=1uhrY7DE9orJB5zzZLp2UTgWedTP4ZdOx",
+                    "prompt": "Talk about what you see in the photo."
+                },
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=1KXO_QUJgb4GArCMcmGPQNv-V_uyrV7Z2",
+                    "prompt": "Talk about what you see in the photo."
+                },
+                {
+                    "photoURL": "https://drive.google.com/uc?export=view&id=14icNzOZ88OmbsmtRxJO3RyVkA6ivOPOx",
+                    "prompt": "Talk about what you see in the photo."
+                }
+            ],
+            "ReadThenWrite": [
+                {
+        "readingText": "Technology has significantly changed how we communicate, creating new opportunities and challenges in our interconnected world.",
+        "answer": "Technology's impact on communication is profound, revolutionizing the way we interact. Social media platforms and instant messaging have made it possible to connect with anyone globally in real-time. However, this has also led to concerns about diminishing face-to-face interactions and overreliance on digital communication, altering the essence of personal relationships and societal interactions."
+                },
+                {
+        "readingText": "Global warming is a critical challenge that threatens our planet, impacting weather patterns, ecosystems, and the global environment.",
+        "answer": "Global warming poses a severe threat to our environment, causing rising sea levels, extreme weather patterns, and loss of biodiversity. Human activities, notably fossil fuel consumption and deforestation, are the primary contributors to this crisis. It's imperative to adopt sustainable practices and green technologies to mitigate these effects and preserve the planet for future generations."
+            },
+            {
+        "readingText": "Education is more than just learning facts; it's key to unlocking a person's potential and fostering societal progress.",
+        "answer": "Education plays a pivotal role in shaping an individual's future. It provides the foundation for critical thinking, problem-solving, and creativity. Beyond academic knowledge, education fosters personal growth, social awareness, and the development of ethical values. It's a powerful tool for breaking the cycle of poverty and enabling societal progress."
+            },
+            {
+        "readingText": "Cultural diversity enriches society, bringing a variety of perspectives, traditions, and experiences that enhance communal life.",
+        "answer": "Cultural diversity brings a wealth of perspectives, traditions, and experiences to society, fostering innovation and creativity. It encourages empathy and understanding among different communities, promoting social harmony. By appreciating and embracing diverse cultures, we can build a more inclusive and dynamic society where everyone's heritage is valued."
+            }
+            ],
+            "ReadThenSpeak": [
+                {
+                    "readingText": "Global warming, as a serious issue facing the world today, impacts climate, ecosystems, and the future of our planet.",
+                    "speakingPrompt": "Discuss the effects of global warming, including its impact on climate patterns, natural habitats, and what actions can be taken to mitigate these effects."
+                },
+                {
+                    "readingText": "Addressing global warming is crucial for sustainability, requiring collective efforts in reducing emissions and promoting environmental stewardship.",
+                    "speakingPrompt": "Explain the importance of addressing global warming, highlighting the role of individual and collective efforts in reducing carbon emissions and fostering sustainable practices."
+                }
+            ],
+            "ListenThenSpeak": [
+                {
+                    "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ"
+                },
+                {
+                    "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ"
+                }
+            ],
+            "SpeakingSample": [
+                {
+                    "prompt": "Describe a memorable event in your life, including when and where it happened, who was involved, and why it was significant to you.",
+                    "exampleAnswer": "One of the most memorable events in my life occurred during my high school graduation. It was a sunny day in June, at the local stadium filled with proud families and friends. The atmosphere was electric with excitement and a sense of accomplishment. What made this event so special was not just receiving my diploma, but the presence of my grandmother, who had flown in from another country to see me graduate. Her presence added an extra layer of joy and significance to the day. She had always been a source of inspiration and support for me, and having her there to witness one of my major life milestones was incredibly meaningful. This event marked not just the end of my high school journey, but also the beginning of a new chapter in my life, with my beloved grandmother cheering me on."
+                }
+            ],
+            "WritingSample": [
+                {
+                    "prompt": "Discuss the various benefits of learning a new language, including its impact on personal development, cultural understanding, and professional opportunities.",
+                    "exampleEssay": "Learning a new language opens up a world of opportunities and offers numerous benefits. It not only enhances cognitive skills like memory and problem-solving but also broadens cultural horizons. By understanding a new language, one gains a deeper appreciation of different cultures, traditions, and ways of thinking. This cultural empathy fosters better communication and tolerance in an increasingly globalized world. Moreover, bilingualism or multilingualism can significantly boost professional prospects. It opens doors to international job opportunities and allows for effective communication in diverse work environments. Learning a language also provides a competitive edge in career fields like diplomacy, international business, and tourism. Furthermore, it enhances travel experiences, allowing for more immersive and authentic interactions with locals. In essence, acquiring a new language is not just learning words and grammar; it's an exploration into new perspectives, fostering personal growth and global connectedness."
+                }
+            ]
+        }
+    }
+}
