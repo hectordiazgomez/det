@@ -3,20 +3,20 @@
         "sections": {
             "ListenAndType": [
                 {
-                    "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0088.mp3",
-                    "transcription": "What literary device uses a comparison between two unrelated things to highlight a particular quality?"
+                    "audioPrompt": "https://luya.blob.core.windows.net/edux/luiamp1.mp3",
+                    "transcription": "Hear a story about a lost pet and write down the key details."
                 },
                 {
-                "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0090.mp3",
-               "transcription": "What famous French landmark was completed in 1889 as an entrance arch for the World's Fair?"
+                "audioPrompt": "https://luya.blob.core.windows.net/edux/luiamp2.mp3",
+               "transcription": "Record the main points from a news snippet about a local festival."
                 },
                 {
-                "audioPrompt": "https://luya.blob.core.windows.net/hard-edux/newhard-0092.mp3",
-                "transcription": "What natural phenomenon occurs when the Moon passes between the Earth and the Sun, casting a shadow on Earth?"
+                "audioPrompt": "https://luya.blob.core.windows.net/edux/luiamp3.mp3",
+                "transcription": "It is a sunny day in my home"
                 },
                 {
-                "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ",
-                "transcription": "The government introduced new property laws recently."
+                "audioPrompt": "https://luya.blob.core.windows.net/edux/luiamp4.mp3",
+                "transcription": "Write down the steps explained in a brief gardening tutorial."
                 }
             ],
             "ReadAloud": [
@@ -31,16 +31,19 @@
             ],
             "WriteAboutThePhoto": [
                 {
+                    "timing": "You have 60 seconds for this task",
                     "instruction": "Describe the image",
                     "photoURL": "https://drive.google.com/uc?export=view&id=1uhrY7DE9orJB5zzZLp2UTgWedTP4ZdOx",
                     "description": "A man who wears a hat and a woman who wears a red t-shirt are searching on how to use the telescope in front of them. A number of groups of individuals are standing or seated in the camping chairs behind them."
                 },
                 {
+                    "timing": "You have 60 seconds for this task",
                     "instruction": "Describe the image",
                     "photoURL": "https://drive.google.com/uc?export=view&id=1KXO_QUJgb4GArCMcmGPQNv-V_uyrV7Z2",
                     "description": "A cleaning woman is wiping the glass of a restaurant. There are two signs attached to the glass."
                 },
                 {
+                    "timing": "You have 60 seconds for this task",
                     "instruction": "Describe the image",
                     "photoURL": "https://drive.google.com/uc?export=view&id=14icNzOZ88OmbsmtRxJO3RyVkA6ivOPOx",
                     "description": "A waiter in a black shirt and a tie is ordering for a man in a restaurant which has a great atmosphere. On the table, there are several wine glasses."
@@ -48,46 +51,55 @@
             ],
             "SpeakAboutThePhoto": [
                 {
-                    "photoURL": "https://drive.google.com/uc?export=view&id=1uhrY7DE9orJB5zzZLp2UTgWedTP4ZdOx",
+                    "timing": "You have 90 seconds for this task",
+                    "photoURL": "https://luya.blob.core.windows.net/edux/luiaim.png",
                     "prompt": "Talk about what you see in the photo.",
-                    "sample_answer": ""
+                    "sample_answer": "The image displays the iconic Kinkaku-ji, the Golden Pavilion, in Kyoto, Japan, with its top two floors covered in gold leaf, shimmering in the sunlight. It reflects elegantly on the calm pond in front of it, surrounded by meticulously maintained greenery and trees. The sky is clear and blue, adding to the serene and picturesque setting of this historic Zen Buddhist temple."
                 },
                 {
-                    "photoURL": "https://drive.google.com/uc?export=view&id=1KXO_QUJgb4GArCMcmGPQNv-V_uyrV7Z2",
+                    "timing": "You have 90 seconds for this task",
+                    "photoURL": "https://luya.blob.core.windows.net/edux/luiaim2.png",
                     "prompt": "Talk about what you see in the photo.",
-                    "sample_answer": ""
+                    "sample_answer": "The image shows a man and a woman sitting on a black leather couch with serious expressions, attentively listening to a person seated opposite them, only seen from the back. The woman is wearing a yellow top and has curly hair, while the man is in a dark shirt. They appear to be in a counseling session, indicated by the notepad in the hands of the person facing them, and a comfortable, home-like interior setting."
                 },
                 {
-                    "photoURL": "https://drive.google.com/uc?export=view&id=14icNzOZ88OmbsmtRxJO3RyVkA6ivOPOx",
+                    "timing": "You have 90 seconds for this task",
+                    "photoURL": "https://luya.blob.core.windows.net/edux/luiaim3.png",
                     "prompt": "Talk about what you see in the photo.",
-                    "sample_answer": ""
+                    "sample_answer": "This image features a happy Shiba Inu dog with a bright, alert expression, sitting on grass beside a giant tennis ball. The dog's fur is richly colored in shades of brown and white, and its tongue is out, suggesting a playful mood. The collar around its neck is colorful with a unique pattern, and the large tennis ball suggests an amusing, oversized toy for the dog to enjoy."
                 }
             ],
             "ReadThenWrite": [
                 {
+                    "timing": "You have 4 minutes for this task",
                     "instruction": "Open-response writing. Use at least 50 words",
         "readingText": "Technology has significantly changed how we communicate, creating new opportunities and challenges in our interconnected world."
                 },
                 {
+                    "timing": "You have 4 minutes for this task",
         "instruction": "Open-response writing. Use at least 50 words",
         "readingText": "Global warming is a critical challenge that threatens our planet, impacting weather patterns, ecosystems, and the global environment."
             },
             {
+                "timing": "You have 4 minutes for this task",
         "instruction": "Open-response writing. Use at least 50 words",
         "readingText": "Education is more than just learning facts; it's key to unlocking a person's potential and fostering societal progress."
             },
             {
+                "timing": "You have 4 minutes for this task",
         "instruction": "Open-response writing. Use at least 50 words",
         "readingText": "Cultural diversity enriches society, bringing a variety of perspectives, traditions, and experiences that enhance communal life."
             }
             ],
             "ReadThenSpeak": [
                 {
+                    "timing": "You have 90 seconds for this task",
                     "instruction": "Open-response speaking",
                     "readingText": "Global warming, as a serious issue facing the world today, impacts climate, ecosystems, and the future of our planet.",
                     "speakingPrompt": "Discuss the effects of global warming, including its impact on climate patterns, natural habitats, and what actions can be taken to mitigate these effects."
                 },
                 {
+                    "timing": "You have 90 seconds for this task",
                     "instruction": "Open-response speaking",
                     "readingText": "Addressing global warming is crucial for sustainability, requiring collective efforts in reducing emissions and promoting environmental stewardship.",
                     "speakingPrompt": "Explain the importance of addressing global warming, highlighting the role of individual and collective efforts in reducing carbon emissions and fostering sustainable practices."
@@ -95,22 +107,28 @@
             ],
             "ListenThenSpeak": [
                 {
+                    "timing": "You have 90 seconds for this task",
                     "instruction": "Open-response speaking",
-                    "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ"
+                    "text": "Describe your favorite holiday and explain why it is significant to you. Include details about traditions, food, and activities associated with this day.",
+                    "audioPrompt": "https://luya.blob.core.windows.net/edux/laudio.mp3"
                 },
                 {
+                    "timing": "You have 90 seconds for this task",
                     "instruction": "Open-response speaking",
-                    "audioPrompt": "https://drive.google.com/uc?export=view&id=1zvm15oljrltqkZh07oSPCTTAN8SyumzQ"
+                    "text": "Talk about a book or a movie that has had a significant impact on you. Discuss the plot, the characters, and why it resonated with you.",
+                    "audioPrompt": "https://luya.blob.core.windows.net/edux/laudio2.mp3"
                 }
             ],
             "SpeakingSample": [
                 {
+                    "timing": "You have 4 minutes for this task",
                     "instruction": "Extended speaking",
                     "prompt": "Describe a memorable event in your life, including when and where it happened, who was involved, and why it was significant to you."
                 }
             ],
             "WritingSample": [
                 {
+                    "timing": "You have 4 minutes for this task",
                     "instruction": "Extended writing",
                     "prompt": "Discuss the various benefits of learning a new language, including its impact on personal development, cultural understanding, and professional opportunities."
                 }
